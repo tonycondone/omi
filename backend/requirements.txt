@@ -140,7 +140,7 @@ packaging==24.1
 pandas==2.2.2
 parso==0.8.4
 pexpect==4.9.0
-pillow==10.4.0
+pillow==13.0.0
 pinecone-client==5.0.1
 pinecone-plugin-inference==1.0.3
 pinecone-plugin-interface==0.0.7
