@@ -88,7 +88,7 @@ marshmallow==3.21.3
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 memo==0.2.3
-mistune==3.0.2
+mistune==3.3.4
 modal==0.63.94
 monotonic==1.6
 multidict==6.0.5
